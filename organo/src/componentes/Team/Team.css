@@ -1,0 +1,16 @@
+.team {
+    text-align: center;
+    padding: 2rem;
+}
+
+.team h3{
+    font-size: 32px;
+    border-bottom: 4px solid;
+}  
+
+.team .members{
+    display: flex;
+    justify-content: space-around;
+    margin-top: 2rem;
+    flex-wrap: wrap;
+}
